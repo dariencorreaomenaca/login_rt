@@ -1,5 +1,5 @@
 import React from 'react';
-import { RootNavegation } from './src/navegacion/view';
+import { RootNavegation } from './src/b/view';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { AuthProvider } from './src/login/context';
